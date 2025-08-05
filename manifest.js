@@ -1,0 +1,32 @@
+{
+  "name": "The Golden Scrolls of Barnabas",
+  "short_name": "Barnabas Scrolls",
+  "description": "Where words meet spirit and stories shape souls. Discover the literary works of Mfuneni Barnabas Mabunda.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#232c42",
+  "theme_color": "#232c42",
+  "icons": [
+    {
+      "src": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pub-954ee37e70244de5bb62c446533dbea3.r2.dev/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
